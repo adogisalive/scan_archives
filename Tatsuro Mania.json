@@ -2,7 +2,7 @@
   "title": "Tatsuro Mania",
   "description": "",
   "artist": "Tatsuro Yamashita",
-  "author": "",
+  "author": "Tatsuro Yamashita",
   "cover": "",
   "chapters": {
     "0": {
@@ -19,6 +19,39 @@
           "https://i.imgur.com/cQllGXU.jpg",
           "https://i.imgur.com/VqdMbBD.jpg",
           "https://i.imgur.com/KAPiDhS.jpg"
+        ]
+      }
+    },
+    "1": {
+      "title": "",
+      "volume": "1",
+      "last_updated": "1706541449",
+      "groups": {
+        "": [
+          "https://i.imgur.com/MR01WOU.jpg",
+          "https://i.imgur.com/95cu69v.jpg",
+          "https://i.imgur.com/IQrEJNz.jpg",
+          "https://i.imgur.com/aTjsf9S.jpg",
+          "https://i.imgur.com/FwYgOyC.jpg",
+          "https://i.imgur.com/bGzXWkr.jpg",
+          "https://i.imgur.com/Y43mngB.jpg",
+          "https://i.imgur.com/xEWTTYC.jpg",
+          "https://i.imgur.com/gb9TeGF.jpg",
+          "https://i.imgur.com/yDbv8uu.jpg",
+          "https://i.imgur.com/SruQdww.jpg",
+          "https://i.imgur.com/DpsFZOV.jpg",
+          "https://i.imgur.com/mKuGO2x.jpg",
+          "https://i.imgur.com/FiRpCaX.jpg",
+          "https://i.imgur.com/soO3Uos.jpg",
+          "https://i.imgur.com/HCkCura.jpg",
+          "https://i.imgur.com/jk30NTa.jpg",
+          "https://i.imgur.com/RlQthDM.jpg",
+          "https://i.imgur.com/fG7a9Q6.jpg",
+          "https://i.imgur.com/Z9Jlvq8.jpg",
+          "https://i.imgur.com/4rxt8lE.jpg",
+          "https://i.imgur.com/9omOD9g.jpg",
+          "https://i.imgur.com/pAb7Bnr.jpg",
+          "https://i.imgur.com/Qchh20d.jpg"
         ]
       }
     }
