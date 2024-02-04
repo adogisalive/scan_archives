@@ -1,0 +1,31 @@
+{
+  "title": "Magazine Excerpt",
+  "description": "",
+  "artist": "Tatsuro Yamashita",
+  "author": "Tatsuro Yamashita",
+  "cover": "",
+  "chapters": {
+    "1974.08": {
+      "title": "ライトミュージック",
+      "volume": "",
+      "last_updated": "1707062223",
+      "groups": {
+        "": [
+          "https://i.imgur.com/fIjhbrX.jpg",
+          "https://i.imgur.com/fICJKW2.jpg"
+        ]
+      }
+    },
+    "1975.03": {
+      "title": "ライトミュージック",
+      "volume": "",
+      "last_updated": "1707062278",
+      "groups": {
+        "": [
+          "https://i.imgur.com/ukr9ZEO.jpg",
+          "https://i.imgur.com/LuOceX5.jpg"
+        ]
+      }
+    }
+  }
+}
