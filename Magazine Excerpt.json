@@ -7,7 +7,7 @@
   "chapters": {
     "1974.08": {
       "title": "ライトミュージック (Sugar Babe)",
-      "volume": "",
+      "volume": "1974",
       "last_updated": "1707062223",
       "groups": {
         "": [
@@ -18,7 +18,7 @@
     },
     "1975.03": {
       "title": "ライトミュージック (Sky Hills Party)",
-      "volume": "",
+      "volume": "1975",
       "last_updated": "1707062278",
       "groups": {
         "": [
@@ -29,7 +29,7 @@
     },
     "1975.04": {
       "title": "Young Guitar (Sugar Babe)",
-      "volume": "",
+      "volume": "1975",
       "last_updated": "1707062530",
       "groups": {
         "": [
@@ -40,12 +40,113 @@
     },
     "1975.07": {
       "title": "Young Guitar (Sugar Babe)",
-      "volume": "",
+      "volume": "1975",
       "last_updated": "1707062570",
       "groups": {
         "": [
           "https://i.imgur.com/5UvacMr.jpg",
           "https://i.imgur.com/dvzfvQZ.jpg"
+        ]
+      }
+    },
+    "1975.08": {
+      "title": "新譜ジャーナル (Sugar Babe)",
+      "volume": "1975",
+      "last_updated": "1707062935",
+      "groups": {
+        "": [
+          "https://i.imgur.com/IFqlgG2.jpg",
+          "https://i.imgur.com/VwLdUXP.jpg",
+          "https://i.imgur.com/EMBqYVE.jpg",
+          "https://i.imgur.com/yiljI0M.jpg"
+        ]
+      }
+    },
+    "1975.10": {
+      "title": "Young Guitar (Colored Sugar Babe)",
+      "volume": "1975",
+      "last_updated": "1707063000",
+      "groups": {
+        "": [
+          "https://i.imgur.com/L5MFHvX.jpg",
+          "https://i.imgur.com/6DdldP3.jpg"
+        ]
+      }
+    },
+    "1975.11": {
+      "title": "GUTS (Sugar Babe)",
+      "volume": "1975",
+      "last_updated": "1707063060",
+      "groups": {
+        "": [
+          "https://i.imgur.com/98FOPO1.jpg",
+          "https://i.imgur.com/9SH9VPc.jpg"
+        ]
+      }
+    },
+    "1976.1130": {
+      "title": "Playboy",
+      "volume": "1976",
+      "last_updated": "1707063213",
+      "groups": {
+        "": [
+          "https://i.imgur.com/nPg45SQ.jpg"
+        ]
+      }
+    },
+    "1978.0403": {
+      "title": "平凡パンチ",
+      "volume": "1978",
+      "last_updated": "1707063263",
+      "groups": {
+        "": [
+          "https://i.imgur.com/o4VG9Vv.jpg",
+          "https://i.imgur.com/fxF10Tc.jpg"
+        ]
+      }
+    },
+    "1979.01": {
+      "title": "月刊Audio",
+      "volume": "1979",
+      "last_updated": "1707063324",
+      "groups": {
+        "": [
+          "https://i.imgur.com/E4LXrkg.jpg",
+          "https://i.imgur.com/y01ub02.jpg"
+        ]
+      }
+    },
+    "1979.11": {
+      "title": "STEADY",
+      "volume": "1979",
+      "last_updated": "1707063369",
+      "groups": {
+        "": [
+          "https://i.imgur.com/w1s2jEx.jpg",
+          "https://i.imgur.com/qtgvELk.jpg"
+        ]
+      }
+    },
+    "1980.09": {
+      "title": "Young Sense",
+      "volume": "1980",
+      "last_updated": "1707063475",
+      "groups": {
+        "": [
+          "https://i.imgur.com/jxJjuRH.jpg",
+          "https://i.imgur.com/cnCiVup.jpg",
+          "https://i.imgur.com/sxxa3J3.jpg"
+        ]
+      }
+    },
+    "1980.0120": {
+      "title": "週刊明星",
+      "volume": "1980",
+      "last_updated": "1707063619",
+      "groups": {
+        "": [
+          "https://i.imgur.com/zLbNGpL.jpg",
+          "https://i.imgur.com/faHRq8d.jpg"
         ]
       }
     }
