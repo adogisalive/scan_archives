@@ -25,6 +25,122 @@
           "https://i.imgur.com/IVxIEbf.jpeg"
         ]
       }
+    },
+    "201912": {
+      "title": "Dec 2019 - Hisohisobanashi",
+      "volume": "2019",
+      "last_updated": "1739011888",
+      "groups": {
+        "": [
+          "https://i.imgur.com/sCiLjKS.jpeg",
+          "https://i.imgur.com/uZzw13i.jpeg",
+          "https://i.imgur.com/I2VOLml.jpeg"
+        ]
+      }
+    },
+    "202002": {
+      "title": "Feb 2020 - Hisohiso tour",
+      "volume": "2020",
+      "last_updated": "1739011945",
+      "groups": {
+        "": [
+          "https://i.imgur.com/kpCfMcW.jpeg",
+          "https://i.imgur.com/QzxFzFA.jpeg",
+          "https://i.imgur.com/Wh7Zmrb.jpeg"
+        ]
+      }
+    },
+    "202010": {
+      "title": "Oct 2020 - NIWA TO NIRA & 3rd mini album",
+      "volume": "2020",
+      "last_updated": "1739011988",
+      "groups": {
+        "": [
+          "https://i.imgur.com/S2sDLWL.jpeg",
+          "https://i.imgur.com/Fe3NZEO.jpeg",
+          "https://i.imgur.com/LYvwaiN.jpeg",
+          "https://i.imgur.com/85ug76E.jpeg",
+          "https://i.imgur.com/AvBTx0U.jpeg"
+        ]
+      }
+    },
+    "202104": {
+      "title": "Apr 2021 - Gusare",
+      "volume": "2021",
+      "last_updated": "1739012056",
+      "groups": {
+        "": [
+          "https://i.imgur.com/6joEZ9q.jpeg",
+          "https://i.imgur.com/z0tJzPU.jpeg",
+          "https://i.imgur.com/TFYWiT1.jpeg"
+        ]
+      }
+    },
+    "202107": {
+      "title": "Jul 2021 - Character (ACAね × Rin音 Prod. by Yaffle)",
+      "volume": "2021",
+      "last_updated": "1739012086",
+      "groups": {
+        "": [
+          "https://i.imgur.com/yMw1jdc.jpeg"
+        ]
+      }
+    },
+    "202108": {
+      "title": "Aug 2021 - Inside Joke (PSO2: NGS × ZUTOMAYO)",
+      "volume": "2021",
+      "last_updated": "1739012143",
+      "groups": {
+        "": [
+          "https://i.imgur.com/bY1T1fE.jpeg"
+        ]
+      }
+    },
+    "202204": {
+      "title": "Apr 2022 - 4th mini album",
+      "volume": "2022",
+      "last_updated": "1739012396",
+      "groups": {
+        "": [
+          "https://i.imgur.com/4axV5L0.jpeg",
+          "https://i.imgur.com/LF9Qf3H.jpeg",
+          "https://i.imgur.com/Ljl370k.jpeg"
+        ]
+      }
+    },
+    "202304": {
+      "title": "Apr 2023 - ROAD GAME Technopoor",
+      "volume": "2023",
+      "last_updated": "1739012513",
+      "groups": {
+        "": [
+          "https://i.imgur.com/wWioyEa.jpeg",
+          "https://i.imgur.com/4L3ZPOu.jpeg",
+          "https://i.imgur.com/Or3IyVq.jpeg"
+        ]
+      }
+    },
+    "202307": {
+      "title": "Jul 2023 - Jinkougaku",
+      "volume": "2023",
+      "last_updated": "1739012646",
+      "groups": {
+        "": [
+          "https://i.imgur.com/3GJs77n.jpeg",
+          "https://i.imgur.com/X5DL4ZV.jpeg",
+          "https://i.imgur.com/HUumEku.jpeg"
+        ]
+      }
+    },
+    "999999": {
+      "title": "Album Review (1st mini album & Gusare)",
+      "volume": "9999",
+      "last_updated": "1739012706",
+      "groups": {
+        "": [
+          "https://i.imgur.com/UPPO1fj.jpeg"
+        ]
+      }
     }
   }
 }
