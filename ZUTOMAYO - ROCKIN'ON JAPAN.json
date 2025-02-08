@@ -4,5 +4,27 @@
   "artist": "ずっと真夜中でいいのに。",
   "author": "ROCKIN'ON JAPAN",
   "cover": "https://i.imgur.com/gD7kJRV.jpeg",
-  "chapters": {}
+  "chapters": {
+    "201811": {
+      "title": "Nov 2018 - Byoushin wo Kamu",
+      "volume": "2018",
+      "last_updated": "1739011556",
+      "groups": {
+        "": [
+          "https://i.imgur.com/bwfVzWz.jpeg"
+        ]
+      }
+    },
+    "201901": {
+      "title": "Jan 2019 - 1st mini album",
+      "volume": "2019",
+      "last_updated": "1739011647",
+      "groups": {
+        "": [
+          "https://i.imgur.com/aRj5pQe.jpeg",
+          "https://i.imgur.com/IVxIEbf.jpeg"
+        ]
+      }
+    }
+  }
 }
